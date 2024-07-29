@@ -29,7 +29,7 @@ Note: .ipynb files are python codes so 99% is python
 - Startups, Deep learning, NLP, Computer Vision & Cloud Computing
 
 ## 👯 Founder Of Data X
-- Founder of Data X an platform that provide Data Science education and services with over 200+ students. 
+- Founder of Data X an platform that provide Data Science education and services. 
 
 ## 😄 Words that describe me
 - Quick Learner, Self-motivated, Focused, Hardworking & Perfectionist
