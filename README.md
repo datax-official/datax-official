@@ -1,16 +1,19 @@
-# Welcome to Data X
-## Hi there, I'm Ahmed Ali👋 
+#  Welcome to Data X
+### Hi there, I'm Ahmed Ali👋 
 
 **Data Scientist | Analyst  | ML Engineer**
 
 To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, and embedded systems towards the smooth functioning of an organization, I realized that satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again, and finally succeeding in the project.
-
+# Streak 🔥🔥🔥
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=datax-official&theme=vision-friendly-light&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+# Stats 📊📊📊
+
 <p align="Center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=datax-official&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats"> 
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datax-official&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-light" alt="Top Languages">
+  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=datax-official&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats"> 
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datax-official&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-light" alt="Top Languages">
 </p>
 
 
