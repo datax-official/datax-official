@@ -8,10 +8,11 @@ To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=datax-official&theme=vision-friendly-light&hide_border=true&border_radius=5&card_width=800">
 </p>
-<p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=datax-official&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats">
+<p align="Center">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=datax-official&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats"> 
   <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datax-official&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-light" alt="Top Languages">
 </p>
+
 
  
 ## 🍪 SKILLS:
@@ -57,8 +58,3 @@ To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=datax-official&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
