@@ -5,18 +5,15 @@
 
 To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, and embedded systems towards the smooth functioning of an organization, I realized that satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again, and finally succeeding in the project.
 
-## Ahmed Ali stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=datax-official&show_icons=true&theme=default)
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=datax-official&theme=vision-friendly-light&hide_border=true&border_radius=5&card_width=800">
+</p>
+<p align="center">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=datax-official&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datax-official&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-light" alt="Top Languages">
+</p>
 
-## GitHub Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=datax-official&theme=default)](https://git.io/streak-stats)
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datax-official&layout=compact&theme=default)
-
-Note: .ipynb files are python codes so 99% is python
+ 
 ## 🍪 SKILLS:
 | Tools          | Badge |
 |------------------|-------|
@@ -56,3 +53,12 @@ Note: .ipynb files are python codes so 99% is python
 - Learn all tools of data analysis and visualization in detail.
 - Learn ML and deep learning in detail.
 - Win the Entrepreneurship 2024 event.
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=datax-official&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
