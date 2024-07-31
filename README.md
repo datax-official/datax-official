@@ -17,8 +17,9 @@ To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, 
 </p>
 
 
- 
-## 🍪 SKILLS:
+ <details>
+ <summary> 🍪Click to view SKILLS: </summary> 
+   
 | Tools          | Badge |
 |------------------|-------|
 | Python           | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
@@ -30,7 +31,9 @@ To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, 
 | Machine Learning | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white) |
 | Data Visualization | ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-4CAF50?logo=databricks&logoColor=white) |
 
-## 📫 Reach me on:
+ </details>
+<details>
+<summary>📫 Click to view Socials</summary>
 
 | Platform               | Icon                                                                                 |
 |------------------------|--------------------------------------------------------------------------------------|
@@ -39,6 +42,11 @@ To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, 
 | [Contributions on Kaggle ](https://www.kaggle.com/datascientist97) | ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)      |
 | [Updates on Twitter ](https://twitter.com/datax-official) | ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)     |
 | [Email at: Data X](mailto:datascientist097@gmail.com)     | ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)          |
+
+</details>
+
+
+
 
 ## 🔭 I’m currently working on
 - Data Science, Data Analysis & Machine Learning
