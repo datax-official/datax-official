@@ -3,22 +3,29 @@
 
 **Data Scientist | Analyst  | ML Engineer**
 
-To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, and embedded systems towards the smooth functioning of an organization, I realized that satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again, and finally succeeding in the project.
-# Streak 🔥🔥🔥
+Driven by a passion for leveraging my knowledge and skills in Data Science, Data Analysis, Machine Learning, and Deep Learning, I aim to contribute to the success of businesses and organizations. My journey in this field has been a blend of experimentation, learning, perseverance, and embracing failures without losing hope. I believe satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again, and finally succeeding in the project.
+ 
+# STREAK 🔥🔥🔥
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=datax-official&theme=vision-friendly-light&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-# Stats 📊📊📊
+--- 
+<details>
+  
+<summary>STATS 📊📊📊</summary> 
 
 <p align="Center">
   <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=datax-official&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats"> 
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datax-official&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-light" alt="Top Languages">
 </p>
+  
+</details>
 
 
+--- 
  <details>
- <summary> 🍪Click to view SKILLS: </summary> 
+ <summary> 🍪CLICK TO VIEW SKILLS: </summary> 
    
 | Tools          | Badge |
 |------------------|-------|
@@ -32,8 +39,11 @@ To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, 
 | Data Visualization | ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-4CAF50?logo=databricks&logoColor=white) |
 
  </details>
+ 
+ ---
+ 
 <details>
-<summary>📫 Click to view Socials</summary>
+<summary>📫 CLICK TO VIEW SOCIALS</summary>
 
 | Platform               | Icon                                                                                 |
 |------------------------|--------------------------------------------------------------------------------------|
@@ -45,7 +55,7 @@ To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, 
 
 </details>
 
-
+--- 
 
 
 ## 🔭 I’m currently working on
@@ -65,6 +75,8 @@ To utilize my knowledge and ideas in the fields of Data Science, Data Analysis, 
 - Learn all tools of data analysis and visualization in detail.
 - Learn ML and deep learning in detail.
 - Win the Entrepreneurship 2024 event.
+
+--- 
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=datax-official&style=for-the-badge&color=orange" alt=""/>
