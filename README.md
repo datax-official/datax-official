@@ -5,12 +5,7 @@
 
 Driven by a passion for leveraging my knowledge and skills in Data Science, Data Analysis, Machine Learning, and Deep Learning, I aim to contribute to the success of businesses and organizations. My journey in this field has been a blend of experimentation, learning, perseverance, and embracing failures without losing hope. I believe satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again, and finally succeeding in the project.
  
-# STREAK 🔥🔥🔥
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=datax-official&theme=vision-friendly-light&hide_border=true&border_radius=5&card_width=800">
-</p>
 
---- 
 <details>
   
 <summary>STATS 📊📊📊</summary> 
