@@ -74,7 +74,6 @@ Driven by a passion for leveraging my knowledge and skills in Data Science, Data
 - Find a startup idea and work on it.
 - Learn all tools of data analysis and visualization in detail.
 - Learn ML and deep learning in detail.
-- Win the Entrepreneurship 2024 event.
 
 --- 
 
