@@ -3,7 +3,7 @@
 
 **Data Scientist | Analyst  | ML Engineer**
 
-Driven by a passion for leveraging my knowledge and skills in Data Science, Data Analysis, Machine Learning, and Deep Learning, I aim to contribute to the success of businesses and organizations. My journey in this field has been a blend of experimentation, learning, perseverance, and embracing failures without losing hope. I believe satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again, and finally succeeding in the project.
+Driven by a passion for utilizing my knowledge and skills in Data Science, Data Analysis, Machine Learning, and Deep Learning, I aim to contribute to the success of businesses and organizations. My journey in this field has been a blend of experimentation, learning, perseverance, and embracing failures without losing hope. I believe satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again, and finally succeeding in the project.
  
 
 <details>
@@ -65,10 +65,11 @@ Driven by a passion for leveraging my knowledge and skills in Data Science, Data
 ## 😄 Words that describe me
 - Quick Learner, Self-motivated, Focused, Hardworking & Consistent
   
-## 🎯 Goals for 2024
-- Find a startup idea and work on it.
-- Learn all tools of data analysis and visualization in detail.
-- Learn ML and deep learning in detail.
+## 🎯 Goals for 2025
+- Get an internship.
+- Complete FYP before September 2025.
+- Publish my Research Paper before Dec-25.
+- Fly out 😄
 
 --- 
 
