@@ -59,9 +59,6 @@ Driven by a passion for utilizing my knowledge and skills in Data Science, Data 
 ## 🌱 I’m currently learning
 - Startups, Deep learning, NLP, Computer Vision & Cloud Computing
 
-## 👯 Founder Of Data X
-- Founder of Data X, a platform that provides Data Science education and services. 
-
 ## 😄 Words that describe me
 - Quick Learner, Self-motivated, Focused, Hardworking & Consistent
   
