@@ -64,9 +64,9 @@ Driven by a passion for utilizing my knowledge and skills in Data Science, Data 
   
 ## 🎯 Goals for 2025
 - Get an internship.
-- Complete FYP before September 2025.
-- Publish my Research Paper before Dec-25.
-- Fly out 😄
+- Complete FYP before October 2025.
+- Work on Research Paper.
+- Plan to Fly out 😄
 
 --- 
 
