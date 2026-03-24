@@ -11,8 +11,8 @@ Driven by a passion for utilizing my knowledge and skills in Data Science, Data 
 <summary>STATS 📊📊📊</summary> 
 
 <p align="center">
-  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=datax-official&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats"> 
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datax-official&layout=compact&theme=vision-friendly-light" alt="Top Languages">
+  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=datixai&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats"> 
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datax-datixai&layout=compact&theme=vision-friendly-light" alt="Top Languages">
 </p>
   
 </details>
