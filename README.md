@@ -277,12 +277,6 @@ Our mission: make ML **accessible, interpretable, and production-ready** — at 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=datixai&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6600&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=datixai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=FF6600&text_color=ffffff" alt="GitHub Stats"/>
-</div>
-
 <div align="center">
   <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datixai&theme=tokyonight" alt="Top Languages"/>
   <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datixai&theme=tokyonight" alt="Profile Summary"/>
